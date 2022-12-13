@@ -14,4 +14,4 @@ On this webpage you'll be able to fill in tasks and save them to the differnt ti
 ## Link to github pages and repo
 REPO - https://github.com/Zcordeiro/daily-tasks-list
 
-Published Page - 
+Published Page -  https://zcordeiro.github.io/daily-tasks-list/
