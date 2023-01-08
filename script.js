@@ -3,9 +3,11 @@ $(document).ready(function () {
   
     function displayDate() {
       var date = dayjs().format('dddd MMM, DD YYYY');
+      
       currentDate.text(date);
       var time = dayjs().format('hh:mm a');
       var timeDisplay = $('<p>');
+      currentDate.attr('class', 'text-white fs-3')
       timeDisplay.text(time);
       currentDate.append(timeDisplay);
     }
